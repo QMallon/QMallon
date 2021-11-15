@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QMallon
 - 👀 I’m interested in Software Testing and Dev Ops
-- 🌱 I’m currently learning python, web scraping with scrapy and Selenium, Azure
-- 💞️ I’m looking to collaborate ...
+- 🌱 I’m currently learning python, Small automation with Selenium, Azure
+- 💞️ I’m looking to collaborate on basic bots
 - 📫 How to reach me ....
 
 <!---
