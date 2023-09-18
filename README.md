@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QMallon
-- 👀 I’m interested in Software Testing and Dev Ops
-- 🌱 I’m currently learning python, Small automation with Selenium, Azure
+- 👀 I’m interested in Cloud (AWS/Azure), Software Testing and Dev Ops
+- 🌱 I’m currently learning python, Godot, bots
 - 💞️ I’m looking to collaborate on basic bots
 - 📫 How to reach me ....
 
